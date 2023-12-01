@@ -1,6 +1,5 @@
-Sphinx<6
-sphinx-rtd-theme
-readthedocs-sphinx-ext
+Sphinx
+sphinx-rtd-theme>=1.2
 sphinxcontrib-bibtex
 jinja2>3.1.0
 nnabla
